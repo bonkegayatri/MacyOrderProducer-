@@ -1,4 +1,4 @@
-package com.zensar.controller;
+package com.zensar.config;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.amqp.core.Binding;

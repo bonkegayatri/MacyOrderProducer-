@@ -38,7 +38,7 @@ public class MacysOrderMessageProducerApplication {
 	  private ApiInfo getApiInfo() {
 	  
 	  return new ApiInfo("Order Producer Rest API Documentation",
-	  "Order Producer APIs released by Zensar Ltd", "2.4",
+	  "Order Producer APIs", "2.4",
 	  "https://zensar.com/termsofservice", 
 	  new Contact("Gayatri","http://Gayatri.com","gayatri@zenar.com"), 
 	  "GPL",
